@@ -1,0 +1,3 @@
+# Default tab
+
+studioespresso/defaulttab

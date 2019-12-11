@@ -7,6 +7,6 @@
     * [**Packages**](/jaypack/packages.md)
 * [**JayCraft**](/jaycraft.md)
     * [**Config**](/jaycraft/config.md)
-    * [**MAMP**](/jaycraft/mamp.md)
+    * [**Use with MAMP**](/jaycraft/mamp.md)
     * [**CraftCMS plugins**](/jaycraft/plugins.md)
         * [**CLI plugin commands**](/jaycraft/plugins/plugin-commands.md)
